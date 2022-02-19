@@ -1,0 +1,15 @@
+{
+    "experiences": [
+        {
+            "title": "Web Developer",
+            "subtitle": "CreditBaker",
+            "workType": "Internship",
+            "workDescription": [
+                "Designed and built CreditBaker.com",
+                "Created an automated workflow for a business funding application process",
+                "Developed a CRM for our sales representatives to manage clients and take notes"
+            ],
+            "dateText": "05/2021 – 08/2021"
+        }
+    ]
+}
