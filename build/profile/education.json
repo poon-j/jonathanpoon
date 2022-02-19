@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Sep 2020 - May 2023",
+            "cardTitle": "BE Computer Science",
+            "cardSubtitle":"University of Michigan, Ann Arbor",
+            "cardDetailedText": "GPA - 3.8",
+            "icon" : {
+                "src": "images/education/mich.png"
+            }
+        },
+        {
+            "title": "Aug 2019 - May 2020",
+            "cardTitle": "BS Computer Science",
+            "cardSubtitle":"Purdue University, West Lafayette",
+            "cardDetailedText": "GPA - 3.5",
+            "icon" : {
+                "src": "images/education/purdue.png"
+            }
+        },
+        {
+            "title": "Jun 2019",
+            "cardTitle": "High School",
+            "cardSubtitle":"Bronx High School of Science, New York",
+            "cardDetailedText": "",
+            "icon" : {
+                "src": "images/education/bxsci.png"
+            }
+        }
+    ]
+}
