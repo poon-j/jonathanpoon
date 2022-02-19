@@ -19,7 +19,7 @@
         {
             "image" : "images/projects/sales-crm.png",
             "title": "Sales CRM",
-            "bodyText": "- Tool used by sales representatives to manage clients.\n - Sales reps can take notes on clients and view their applications.\n - Deployed on **heroku** using **gunicorn**.",
+            "bodyText": "- Tool used by sales representatives to manage clients.\n - Sales reps can take notes on clients and view their applications",
             "links": [
             ],
             "tags" : [
@@ -32,7 +32,7 @@
         {
             "image" : "images/projects/winzonejudy.png",
             "title": "Real Estate Agent Website",
-            "bodyText": "- Website built for a real estate agent.\n",
+            "bodyText": "- Website built for a real estate agent\n",
             "links": [
                 {
                     "text": "Live",
@@ -48,7 +48,7 @@
         {
             "image" : "images/projects/casheroll.png",
             "title": "Merchant Cash Advance Website",
-            "bodyText": "- Website built for MCA company marketing purposes.\n",
+            "bodyText": "- Website built for MCA company marketing purposes\n",
             "links": [
                 {
                     "text": "Live",
