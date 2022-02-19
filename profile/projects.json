@@ -1,0 +1,65 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/creditbaker.png",
+            "title": "CreditBaker.com",
+            "bodyText": "- Website built for Merchant Cash Advance business",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://creditbaker.com"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/sales-crm.png",
+            "title": "Sales CRM",
+            "bodyText": "- Tool used by sales representatives to manage clients.\n - Sales reps can take notes on clients and view their applications.\n - Deployed on **heroku** using **gunicorn**.",
+            "links": [
+            ],
+            "tags" : [
+                "PHP",
+                "MySQL",
+                "JavaScript",
+                "Heroku"
+            ]
+        },
+        {
+            "image" : "images/projects/winzonejudy.png",
+            "title": "Real Estate Agent Website",
+            "bodyText": "- Website built for a real estate agent.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://winzonejudy.com"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/casheroll.png",
+            "title": "Merchant Cash Advance Website",
+            "bodyText": "- Website built for MCA company marketing purposes.\n",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://casheroll.com"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ]
+        }
+    ]
+}
