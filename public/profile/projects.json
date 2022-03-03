@@ -17,9 +17,26 @@
             ]
         },
         {
+            "image" : "images/projects/insta485.png",
+            "title": "Instagram Clone",
+            "bodyText": "- Instagram clone with fully functional frontend and backend\n - React used for frontend (real-time likes/comments)\n - Flask used for backend (routing, database queries)",
+            "links": [
+            ],
+            "tags" : [
+                "Python",
+                "Flask",
+                "React",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "AWS"
+            ]
+        },
+        {
             "image" : "images/projects/sales-crm.png",
             "title": "Sales CRM",
-            "bodyText": "- Tool used by sales representatives to manage clients.\n - Sales reps can take notes on clients and view their applications",
+            "bodyText": "- Tool used by sales representatives to manage clients\n - Sales reps can take notes on clients and view their applications",
             "links": [
             ],
             "tags" : [
