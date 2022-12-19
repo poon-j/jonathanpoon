@@ -1,22 +1,6 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/creditbaker.png",
-            "title": "CreditBaker.com",
-            "bodyText": "- Website built for Merchant Cash Advance business",
-            "links": [
-                {
-                    "text": "Live",
-                    "href": "https://creditbaker.com"
-                }
-            ],
-            "tags" : [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ]
-        },
-        {
             "image" : "images/projects/insta485.png",
             "title": "Instagram Clone",
             "bodyText": "- Instagram clone with fully functional frontend and backend\n - React used for frontend (real-time likes/comments)\n - Flask used for backend (routing, database queries)",
@@ -44,38 +28,6 @@
                 "MySQL",
                 "JavaScript",
                 "Heroku"
-            ]
-        },
-        {
-            "image" : "images/projects/winzonejudy.png",
-            "title": "Real Estate Agent Website",
-            "bodyText": "- Website built for a real estate agent\n",
-            "links": [
-                {
-                    "text": "Live",
-                    "href": "https://winzonejudy.com"
-                }
-            ],
-            "tags" : [
-                "HTML",
-                "CSS",
-                "JavaScript"
-            ]
-        },
-        {
-            "image" : "images/projects/casheroll.png",
-            "title": "Merchant Cash Advance Website",
-            "bodyText": "- Website built for MCA company marketing campaign\n",
-            "links": [
-                {
-                    "text": "Live",
-                    "href": "https://casheroll.com"
-                }
-            ],
-            "tags" : [
-                "HTML",
-                "CSS",
-                "JavaScript"
             ]
         }
     ]

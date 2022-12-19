@@ -1,7 +1,7 @@
 {
-    "intro": "I love learning and experimenting with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "intro": "These are some of the major languages, technologies, and tools I am proficient in:",
     "skills": [{
-     
+
             "title": "Languages & Databases",
             "items" : [
                 {
@@ -29,6 +29,14 @@
                     "title": "PHP"
                 },
                 {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
+                },
+                {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
                 }
@@ -41,38 +49,54 @@
                     "title": "React"
                 },
                 {
+                    "icon": "images/skills/vue.png",
+                    "title": "Vue"
+                },
+                {
                     "icon": "images/skills/flask.png",
                     "title": "Flask"
                 },
                 {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML"
-                },
-                {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS"
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "AWS Tools",
             "items": [
                 {
-                    "icon": "images/skills/vs-code.png",
-                    "title": "Visual Studio Code"
+                    "icon": "images/skills/aws-s3.png",
+                    "title": "S3"
                 },
                 {
-                    "icon": "images/skills/xcode.png",
-                    "title": "XCode"
+                    "icon": "images/skills/aws-lambda.png",
+                    "title": "Lambda"
                 },
                 {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "icon": "images/skills/aws-sqs.png",
+                    "title": "SQS"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/aws-ec2.png",
+                    "title": "EC2"
+                },
+                {
+                    "icon": "images/skills/aws-vpc.png",
+                    "title": "VPC"
+                },
+                {
+                    "icon": "images/skills/aws-elasticsearch.png",
+                    "title": "Elasticsearch"
+                },
+                {
+                    "icon": "images/skills/aws-cloudwatch.png",
+                    "title": "CloudWatch"
+                },
+                {
+                    "icon": "images/skills/aws-pipeline.png",
+                    "title": "Pipelines"
                 }
             ]
-    }
+        }
 ]}
