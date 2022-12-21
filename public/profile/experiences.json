@@ -9,7 +9,7 @@
                 "Load tested the cluster at 10,000 transactions/second (10x peak volume of Prod NA) -- hit a mean latency of 2ms, well below our SLA of 20ms",
                 "Coded and maintained AWS cluster consisting of Elasticsearch, VPC, EC2, S3, SQS, Lambda components"
             ],
-            "dateText": "05/2021 – 08/2021"
+            "dateText": "05/2022 – 07/2022"
         },
         {
             "title": "Web Developer",
